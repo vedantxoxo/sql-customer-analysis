@@ -12,25 +12,40 @@ This project focuses on analyzing customer and sales data using Microsoft SQL Se
 
 ## Analysis Performed
 
-- Cumulative Analysis
-- Performance Analysis
-- Proportional Analysis
-- Trend Analysis
-- Customer Segmentation
-- Customer Reporting
+### 1. Trends Analysis
+Analyzed sales, customers, and quantity over time by year and month.
+
+### 2. Cumulative Analysis
+Calculated monthly and yearly sales along with running totals and average-price analysis.
+
+### 3. Performance Analysis
+Compared yearly product sales against average performance and previous-year sales.
+
+### 4. Proportional Analysis
+Calculated category-level sales contribution and percentage of total sales.
+
+### 5. Customer Segmentation
+Segmented customers into VIP, Regular, and New groups based on customer lifespan and spending.
+
+### 6. Customer Report
+Created a customer-level report containing customer information, sales metrics, purchasing behavior, recency, lifespan, average order value, and average monthly spending.
 
 ## SQL Concepts Used
 
-- SELECT and filtering
-- Aggregate functions
-- GROUP BY and HAVING
-- JOINs
-- CASE statements
+- SELECT, WHERE, and ORDER BY
+- Aggregate Functions
+- GROUP BY
+- LEFT JOIN
+- CASE Statements
+- Common Table Expressions (CTEs)
 - Subqueries
-- CTEs
 - Window Functions
-- Date and time analysis
-- Customer segmentation
+- Running Totals
+- Year-over-Year Analysis
+- Date and Time Functions
+- Percentage-of-Total Analysis
+- Customer Segmentation
+- Customer-Level KPI Calculations
 
 ## Project Files
 
