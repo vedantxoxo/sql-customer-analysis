@@ -62,3 +62,7 @@ Created a customer-level report containing customer information, sales metrics, 
 ## Project Objective
 
 The objective of this project is to use SQL Server to transform raw business data into meaningful insights through structured queries and analytical techniques.
+
+## Customer Report Preview
+
+![Customer Report View](Customer_Report_View.png)
